@@ -17,11 +17,13 @@ Based in Switzerland (strict privacy laws).
 Offers a reliable free plan without data limits.
 No ads or tracking.
 Open-source applications for transparency.
+
 2. Installation Steps
 Signed up for a free ProtonVPN account on the official website.
 Downloaded the ProtonVPN client for Windows/macOS/Linux.
 Installed the client following on-screen instructions.
 Logged in using the newly created credentials.
+
 3. Connecting to a VPN Server
 Opened the ProtonVPN application.
 Selected the "Quick Connect" option (auto-connects to the nearest available server).
@@ -34,6 +36,7 @@ Before connecting: Checked IP using https://whatismyipaddress.com
 After connecting to VPN:
 → New IP Location: Netherlands
 ✅ IP address successfully changed.
+
 5. Confirming Encrypted Traffic
 Browsed multiple websites including https://example.com and https://github.com.
 Confirmed that HTTPS connections remained stable and data was encrypted through ProtonVPN.
@@ -49,15 +52,16 @@ Observation:
 
 Browsing and streaming remained smooth but slower.
 Latency increased due to encrypted tunneling and server distance.
+
 7. VPN Encryption and Privacy Features
 ProtonVPN Technical Details:
-
 Encryption Protocols: OpenVPN, IKEv2/IPSec, and WireGuard.
 Encryption Strength: AES-256 (military-grade encryption).
 DNS Leak Protection: Built-in DNS and IPv6 leak prevention.
 No-Logs Policy: Does not record browsing activity or connection logs.
 Kill Switch: Automatically disables internet if VPN disconnects, preventing data leaks.
 Secure Core: Routes traffic through multiple servers for extra protection (paid feature).
+
 8. Summary — VPN Benefits and Limitations
 ✅ Benefits
 Enhanced Privacy: Hides IP address and location.
@@ -65,20 +69,24 @@ Data Encryption: Protects against hackers and surveillance.
 Bypasses Restrictions: Access region-locked content.
 Public Wi-Fi Protection: Prevents data theft on open networks.
 No-logs Policy: Maintains user anonymity (for reputable VPNs).
+
 ⚠️ Limitations
 Reduced Speed: Encryption and server distance lower performance.
 Free Plan Restrictions: Limited server access and slower speeds.
 Not Full Anonymity: VPN providers can still see metadata (depending on policy).
 Website Blocks: Some services (e.g., Netflix, banking sites) may block VPN traffic.
+
 9. Conclusion
 ProtonVPN proved to be a secure and reliable free VPN solution for basic browsing and privacy needs.
 While speed is reduced due to encryption overhead, it effectively hides the user's IP and encrypts online activity.
 For enhanced performance and global access, upgrading to a paid plan or using servers closer to the user is recommended.
 
 🧠 References
+
 ProtonVPN Official Website
 WhatIsMyIPAddress.com
 Mozilla VPN Guide
 EFF: Why You Need a VPN
-Author: DORAPALLY KARTHIK
+
+Author: SK AISHIA SIDIKA
 Internship Organization: ELEVATE LABS DATE :31 OCTOBER 2025
